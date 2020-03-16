@@ -1,6 +1,6 @@
 # Google-Code-Jam  
 ### GCJ2019  
-+ [ ] Qual  
++ [ ] Round qual  
 + [ ] Round 1a  
 + [ ] Round 1b  
 + [ ] Round 1c  

@@ -1,7 +1,3 @@
-                                            
-  //File Name: qualification_B.cpp
-  //Created Time: 2017年03月14日 星期二 17时07分06秒
-                                   
 #include <bits/stdc++.h>
 #define LL long long
 using namespace std;

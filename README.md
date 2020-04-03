@@ -1,10 +1,9 @@
-# Google-Code-Jam  
-### GCJ2019  
-+ [ ] Round qual  
-+ [ ] Round 1a  
-+ [ ] Round 1b  
-+ [ ] Round 1c  
-+ [ ] Round 2  
-+ [ ] Round 3  
-+ [ ] Final  
+# Google Code Jam 
+
+题解  
   
+ GCJ       | A      | B      | C      | D 
+|:--------:|:------:|:------:|:------:|:------:
+ 2019 qual|o|o||
+ 2019 1a||||-
+
